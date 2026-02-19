@@ -10,3 +10,11 @@ My focus is not just solving the problems, but explaining:
 - how edge cases are handled within each script
 
 Each file represents an individual lab-style breakdown of a CS50P problem set, where I analyze the requirements, implement the solution, and provide detailed commentary on the programming logic used.
+<h2>Platforms and Languages Leveraged</h2>
+
+<table>
+  <tr>
+    <td>HarvardX CS50P</td>
+    <td>VS Code</td>
+  </tr>
+</table>
