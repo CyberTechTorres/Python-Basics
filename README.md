@@ -1,3 +1,5 @@
+<img width="500" height="315" alt="image" src="https://github.com/user-attachments/assets/d6875007-a771-49e0-984e-5deeee386897" />
+
 ## 🧠 Overview
 This repository serves as my Python Problem Set Home Lab based on the HarvardX CS50P curriculum. Here I work through the provided problem scenarios while documenting my scripting logic, conceptual understanding, and step-by-step reasoning behind each solution.
 
