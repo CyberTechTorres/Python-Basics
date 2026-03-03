@@ -2,14 +2,6 @@
 
 ---
 
-## 🖥️ Platforms and Languages Leveraged
-- Windows 11  
-- VSCode  
-- Python  
-- HarvardX CS50P website  
-
----
-
 ## 📚 Scenario
 Here I will begin by going through the provided problomatic sceanarios HarvardX CS50P provides in Problem Set 2
 
